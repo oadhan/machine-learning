@@ -1,0 +1,16 @@
+Purpose: To train a regression machine learning model on movie ratings provided by users on a streaming platform and
+improve the RMSE (Root-mean-square deviation) or in other words, minimize the difference between the predicated values
+and the actual values.
+
+Method:
+1. Pre-processed data - parsed through data, converted date time field to numerical variable, and replaced NaN entries
+with an average rating (3)
+2. Split data into training and test sets
+3. Trained a multiple regression model and calculated the model's RMSE
+4. Trained a linear regression model for each predictor vairable and calculated the model's RMSE to see which variable
+outputed the most accurate predictions
+
+Note: The ratings.csv file was far too large to upload to GitHub, so this file cannot be found in this repository.
+Please contact me if you would like a copy of this dataset. 
+
+Contributors: Oviya Adhan
