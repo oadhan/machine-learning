@@ -1,0 +1,15 @@
+Purpose: The purpose of this project was to select a predictive model and analyze its fairness and accuracy. 
+The model chosen was an entry into the Inter American Development Bank (IADM) contest to create a more accurate 
+Automated Decision System (ADS) using machine learning methods to more fairly distribute aid based on various factors 
+that have previously been ignored like specific household attributes like material of their walls, ceilings and 
+other related assets.
+
+Method: The chosen entry was a gradient boosted decision trees model trained on 142 input variables including tangible 
+features of the houses of the households, gender ratios of the households, education levels, etc. The model is then 
+used to predict outcomes for the test data. The outcome predicted is a score between 1- 4 to indicate the poverty level of
+the household. This entry was validated using the following methods:
+- Prediction made with model
+- Accuracy of prediction model checked (91.42259414225941)
+- Confusion matrix heat map
+
+Contributors: Oviya Adhan and Mina Mohammadi
