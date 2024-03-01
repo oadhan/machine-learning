@@ -1,0 +1,5 @@
+Purpose: Compare the predictive accuracy of a Principal Component Analysis  (PCA), t-distributed 
+stochastic neighbor embedding (T-SNE), multidimensional scaling (MDS), and choice (n cluster chosen 
+with silhouette) model for the dataset in question. 
+
+Dataset: 13 attributes of wine
