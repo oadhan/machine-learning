@@ -1,0 +1,4 @@
+Purpose: Compare the predictive accuracy of a logistic regression, support vector machine, 
+single decision tree, and random forest model for the dataset in question. 
+
+Dataset: X = various lifestyle variables, Y = occurrence of diabetes 
